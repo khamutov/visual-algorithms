@@ -1,6 +1,7 @@
 Build it using bazelisk
 
 ```
+go get github.com/bazelbuild/bazelisk
 bazelisk build //main:app
 ```
 
